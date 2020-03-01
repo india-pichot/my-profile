@@ -3,12 +3,12 @@ h1{
 	font-size: 44px;
 }
 div{
-	background-color: #F7EDEA;
+	background-color: rgb(247, 237, 234);
 	text-align: center;
 	width: 700px;
 	margin: 20px auto;
 	padding: 20px 20px;
-	border-radius: 10px ;
+	border-radius: 2px ;
 	box-shadow: 0px 10px 30px rgba(0,0,0.3)
 }
 #little-title{
@@ -31,6 +31,11 @@ p{
 #moi2{
 	width: 300px;
 	height: 250px;
+	border-radius: 2px;
+}
+#profile{
+	width: 150px ;
+	height: 200px;
 	border-radius: 2px;
 }
 #voyages{
