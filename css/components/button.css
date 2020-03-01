@@ -1,0 +1,8 @@
+.btn-blue {
+	background-color: rgb(188, 180, 157);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif ;
+}
